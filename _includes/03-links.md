@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+# Welcome to my Page
+![My Github Profile](https://github.com/Pal-Mahima/github-slideshow/issues/1)
