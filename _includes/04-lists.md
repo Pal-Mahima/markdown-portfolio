@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Some of the configuration management tool
+-[x] Puppet
+-[x] Ansible
+-[x] Chef
+-[x] Saltstack
